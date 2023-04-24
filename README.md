@@ -15,23 +15,33 @@ I strongly suggest to run notebook file in colab. notebook files included all co
 ### Installation
 
 Clone the repository: git clone https://github.com/CodeNinjaPro/Predicting-Stress.git
+
 Install the required packages: pip install -r requirements.txt
-Run the script : python LoadingData.py
-Run the script : python Labelling.py
-Run the script : python CalculateRespiratory.py
-Run the script : python Prepossessing.py
-Run the script : python ML.py
-Run the script : python DL.py
+
+
 
 ## Usage
 
-Explain how to use the project, including any important details and examples.
+Run the script : python LoadingData.py
+
+Run the script : python Labelling.py
+
+Run the script : python CalculateRespiratory.py
+
+Run the script : python Prepossessing.py
+
+Run the script : python ML.py
+
+Run the script : python DL.py
 
 ## Contact
 
 name : Ahangama Withanage Roshan Darshana Madhushanka
+
 email : ra22242@essex.ac.uk
+
 project : Predicting Stress Levels Using Wearable Device Data: A Data Analysis Report
+
 *** Important - use google colab to run  all_step_notebook.ipynb ***
 
 
